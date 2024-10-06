@@ -26,7 +26,7 @@ This is a Flask-based web application that allows users to upload a CSV or XLSX 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rishabhjohri/flask-sentiment-analysis.git
+   
    cd flask-sentiment-analysis
 2. Create and activate a virtual environment:
    ```bash
