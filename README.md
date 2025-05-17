@@ -1,6 +1,6 @@
 # Flask Sentiment Analysis API
 
-This is a Flask-based web application that allows users to upload a CSV or XLSX file containing customer reviews. The app integrates with the Groq API to perform sentiment analysis on the reviews and displays both a summary and detailed results.
+#This is a Flask-based web application that allows users to upload a CSV or XLSX file containing customer reviews. The app integrates with the Groq API to perform sentiment analysis on the reviews and displays both a summary and detailed results.
 
 ## Features
 - Upload CSV or XLSX files with customer reviews.
